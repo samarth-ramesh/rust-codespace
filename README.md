@@ -36,7 +36,7 @@ Besides Rust and Cargo, the image comes with the following Rust related tooling:
 
 ### Operating System
 
-- [Ubuntu 18.04](https://releases.ubuntu.com/18.04.4/): The 18.04 LTS version of Ubuntu.
+- [Ubuntu Latest](https://releases.ubuntu.com): The latest version of Ubuntu.
 
 ## Usage
 
