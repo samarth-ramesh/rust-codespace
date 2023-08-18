@@ -1,3 +1,7 @@
+mod graph;
+
 fn main() {
-    println!("Hello, world!");
+    let mut g = graph::Graph::new();
+    let s = String::from("hi");
+    g.add_principal(s);
 }
